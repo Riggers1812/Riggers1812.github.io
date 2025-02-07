@@ -2,9 +2,8 @@ title: DTR # your name (or website title) here
 logo: "/images/logo.png?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
   David Rigby 
-  <br><br>
-   
-  <br><br>
+  
+  <br>Business Intelligence Analyst<br>
   <a href="https://www.linkedin.com/in/david-rigby-19770251//">View My LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0

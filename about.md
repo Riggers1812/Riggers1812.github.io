@@ -1,3 +1,8 @@
+---
+layout: default
+title: About
+---
+
 # About
 
 I'm David Rigby, a Business Intelligence Developer focused on helping organisations make better decisions through data.

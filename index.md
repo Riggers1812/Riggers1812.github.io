@@ -3,12 +3,10 @@
 ## Business Intelligence Developer | Data & Analytics Builder
 
 Building Systems Behind Better Decisions
-
 ---
-
 ### Navigation
 
--  [About Me](about.md)
+- [About Me](about.md)
 - [Projects](projects.md)
 - [Blogs](blog.md)
 - [GitHub](https://github.com/Riggers1812)

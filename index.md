@@ -4,9 +4,9 @@
 
 ### Building Systems Behind Better Decisions
 
-I design and develop analytics systems that help organisations turn data into trusted insights, scalable reporting, and better business decisions.
+Welcome to my corner of the internet.
 
-My focus is on creating reliable data models, automation, and self-service analytics that reduce complexity and deliver measurable value.
+This website is where I share projects, lessons learned, technical knowledge, and thoughts on building analytics systems that create lasting business value. I enjoy helping organisations turn data into trusted insights through analytics engineering, business intelligence, automation, and modern data platforms.
 
 ---
 

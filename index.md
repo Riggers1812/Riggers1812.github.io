@@ -31,8 +31,8 @@ My focus is on creating reliable data models, automation, and self-service analy
 - [About Me](about.md)
 - [Projects](projects.md)
 - [Blog](blog.md)
-- https://github.com/Riggers1812
-- https://www.linkedin.com/in/david-rigby-19770251/
+- [GitHub](https://github.com/Riggers1812)
+- [LinkedIn](https://www.linkedin.com/in/david-rigby-19770251/)
 
 ---
 

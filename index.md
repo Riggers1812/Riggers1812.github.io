@@ -1,8 +1,7 @@
 # David Rigby
 
-## Business Intelligence Developer | Data & Analytics Builder
-
-### Building Systems Behind Better Decisions
+## Building Systems Behind Better Decisions
+Business Intelligence Developer | Data & Analytics Builder
 
 Welcome to my corner of the internet.
 

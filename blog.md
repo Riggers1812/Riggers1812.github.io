@@ -6,7 +6,7 @@ Thoughts on SQL, BI, analytics engineering and data.
 
 ## Articles
 
-### [3 SQL Habits That Made Me Faster 2026
+### [SQL Habits](blog/sql-habits.md)
 
 ---
 

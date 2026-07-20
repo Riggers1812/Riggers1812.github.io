@@ -8,7 +8,7 @@ Building Systems Behind Better Decisions
 
 ### Navigation
 
-- Learn more [About Me](about.md)
+-  [About Me](about.md)
 - [Projects](projects.md)
 - [Blogs](blog.md)
 - [GitHub](https://github.com/Riggers1812)
@@ -19,4 +19,3 @@ Building Systems Behind Better Decisions
 Welcome to my corner of the internet.
 
 I write about SQL, Looker, analytics engineering, data quality and lessons learned from building analytics systems.
-

@@ -19,8 +19,8 @@ Building Systems Behind Better Decisions
  
 
 - {{ '/about.html' | relative_url }}
-- Projects
-- /blog
+- {{ '/projects.html' | relative_url }}
+- {{ '/blog.html' | relative_url }}
 - [GitHub](https://github.com/Riggers1812)
 - [LinkedIn](https://www.linkedin.com/in/david-rigby-19770251/)
 

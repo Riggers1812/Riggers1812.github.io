@@ -54,3 +54,6 @@ When I'm not building data solutions, you'll usually find me:
 - 🗺️ Planning routes and improving navigation skills
 - 📚 Learning new technologies and ideas
 - 🍕 Enjoying good food and spending time with family and friends
+
+
+[Home](index.md)

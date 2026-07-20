@@ -18,7 +18,7 @@ Building Systems Behind Better Decisions
 
  
 
-- /about
+- {{ '/about.html' | relative_url }}
 - Projects
 - /blog
 - [GitHub](https://github.com/Riggers1812)

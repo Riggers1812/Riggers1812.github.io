@@ -10,7 +10,7 @@ Thoughts on SQL, BI, analytics engineering and data.
 
 ---
 
-### [What I Learned Building Lookd: June 2026
+### [The Data Validation Framework I Use Before Any Analysis](blog/data-validation.md)
 
 ---
 

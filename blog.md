@@ -1,6 +1,8 @@
 # Blog
 
-Thoughts on SQL, BI, analytics engineering and data.
+Thoughts on data, analytics, learning, documentation, and knowledge sharing.
+
+Building systems behind better decisions.
 
 ---
 

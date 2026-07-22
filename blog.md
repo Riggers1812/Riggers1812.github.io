@@ -6,7 +6,7 @@ Thoughts on SQL, BI, analytics engineering and data.
 
 ## Articles
 
-### [SQL Habits](blog/sql-habits.md)
+### [What School Never Taught Me - Learn to write](blog/learn-to-write.md)
 
 ---
 
@@ -14,6 +14,6 @@ Thoughts on SQL, BI, analytics engineering and data.
 
 ---
 
-### [Why Data -quality
+### [Professional Kindess](blog/professional-kindness.md)
 
-Published: May 2026
+
